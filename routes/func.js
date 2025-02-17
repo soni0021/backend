@@ -6,7 +6,7 @@ const router=express.Router();
 
     });
 
-    router.get('/course/purchase',(req,res)=>
+    router.get('/purchase',(req,res)=>
         {
         
         });
